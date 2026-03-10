@@ -5,7 +5,7 @@ namespace Step8_FunctionCalculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Калькулятор (с использованием функций)");
+            Console.WriteLine(" Каaлькулятор (с использованием функций)");
             Console.Write("Введите первое число: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
             Console.Write("Введите второе число: ");
